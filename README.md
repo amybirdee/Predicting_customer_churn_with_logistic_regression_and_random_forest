@@ -1,5 +1,4 @@
-# Predicting customer churn
-Predicting customer churn at telecommunications company, Telco
+# Predicting customer churn at telecommunications company, Telco
 
 - The data consist of details of circa 7,000 customers at a telecommunications company called Telco including whether or not they churned
 
